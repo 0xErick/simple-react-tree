@@ -1,11 +1,15 @@
 {
   "name": "simple-react-tree",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a react tree component which is easy to use. ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Saqing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqing/simple-react-tree.git"
+  },
   "license": "MIT"
 }
