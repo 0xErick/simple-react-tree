@@ -1,0 +1,11 @@
+{
+  "name": "simple-react-tree",
+  "version": "0.1.0",
+  "description": "a react tree component which is easy to use. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saqing",
+  "license": "MIT"
+}
